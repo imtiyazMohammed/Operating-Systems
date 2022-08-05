@@ -29,3 +29,5 @@
 * Virtual Memory
 * Page Replacement Algorithms
 * Thrashing
+
+`Credits : CodeHelp by Love Babbar`
